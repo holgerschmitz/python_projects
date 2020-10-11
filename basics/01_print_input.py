@@ -31,7 +31,7 @@ print(message)
 #
 # 2) What happens when you assign a different value that you have already used?
 # 
-# 3) Can you use the same variable mutliple times when adding strings with +
+# 3) Try using the same variable mutliple times when adding strings with +
 #
 # 4) What happens when you mutliply a string with a number like this
 #    "a rose is"*5
@@ -43,3 +43,5 @@ print(message)
 # 7) Just like in maths, you can combine operators * and + with brackets ()
 #    Try something like 
 #    (message + " ")*3
+#
+# 8) Watch https://www.youtube.com/watch?v=UsCQXe1OHZk and try out the examples in the video.
